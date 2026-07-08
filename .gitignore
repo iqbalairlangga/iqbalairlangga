@@ -1,0 +1,12 @@
+# OpenClaw local workspace files - keep private/local
+AGENTS.md
+HEARTBEAT.md
+IDENTITY.md
+SOUL.md
+TOOLS.md
+USER.md
+openclaw-workspace-state.json
+memory/
+*.local
+.env
+.env.*
