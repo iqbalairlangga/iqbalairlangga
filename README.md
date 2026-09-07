@@ -1,98 +1,123 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:020617,35:312E81,70:7C3AED,100:00D4FF&height=320&section=header&text=IQBAL%20AIRLANGGA&fontSize=62&fontAlignY=38&fontColor=ffffff&animation=twinkling&desc=Digital%20Craftsman%20%F0%9F%92%A1%20Creative%20Developer%20%F0%9F%8E%AE%202D%20Game%20Explorer%20%F0%9F%8E%AE&descAlignY=62&descSize=20" width="100%" />
+<a href="https://git.io/typing-svg">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=42&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=IQBAL+AIRLANGGA;Digital+Craftsman+%E2%9C%A8+Creative+Developer" alt="Typing SVG" />
+
+</a>
 
 <br />
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=28&duration=2500&pause=700&color=00E5FF&center=true&vCenter=true&width=900&lines=Crafting+Premium+Digital+Experiences;Building+with+Logic%2C+Style+%26+Precision;From+Idea+to+Interface+to+Impact;Always+Evolving%2C+Always+Shipping" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,20:1e1b4b,40:312E81,60:5b21b6,80:7C3AED,100:00D4FF&height=280&section=header&text=&fontSize=0&animation=fadeIn" width="100%" />
 
-<br />
-<br />
+<!-- HEADER BADGES -->
+<img src="https://komarev.com/ghpvc/?username=iqbalairlangga&style=flat-square&color=b537f2&label=Profile%20Views&labelColor=020617" />
+<img src="https://img.shields.io/badge/%F0%9F%94%A5%20GitHub%20Streak-Active-FF2D75?style=flat-square&labelColor=020617" />
+<img src="https://img.shields.io/badge/%F0%9F%92%A1%20Status-Online%20%26%20Building-00E5FF?style=flat-square&labelColor=020617" />
 
-<img src="https://komarev.com/ghpvc/?username=iqbalairlangga&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" />
-<img src="https://img.shields.io/github/followers/iqbalairlangga?style=for-the-badge&color=00d4ff&labelColor=020617&logo=github" />
-<img src="https://img.shields.io/badge/STATUS-%F0%9F%8E%AF%20LEVELING%20UP-ff2d75?style=for-the-badge&labelColor=020617" />
-<img src="https://img.shields.io/badge/%F0%9F%94%A4%20Always-Open%20to%20Collaborate-00D4FF?style=for-the-badge&labelColor=020617" />
+<!-- DYNAMIC BADGES ROW -->
+<br />
+<a href="https://github.com/iqbalairlangga?tab=repositories">
+  <img src="https://img.shields.io/github/repos/iqbalairlangga?style=flat-square&color=7C3AED&label=Repos" />
+</a>
+<a href="https://github.com/iqbalairlangga?tab=followers">
+  <img src="https://img.shields.io/github/followers/iqbalairlangga?style=flat-square&color=00D4FF&label=Followers" />
+</a>
+<a href="https://github.com/iqbalairlangga">
+  <img src="https://img.shields.io/github/stars/iqbalairlangga?style=flat-square&color=FFD700&label=Stars%20Earned" />
+</a>
 
-<br />
-<br />
+</div>
+
+---
+
+<div align="center">
 
 <a href="https://github.com/iqbalairlangga">
-  <img src="https://img.shields.io/badge/GitHub-iqbalairlangga-0D1117?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="mailto:airlanggaiqbal19@gmail.com">
-  <img src="https://img.shields.io/badge/Email-airlanggaiqbal19%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=iqbalairlangga&theme=tokyonight&hide_border=true&background=020617&ring=7C3AED&fire=FF2D75&currStreakLabel=00E5FF&sideLabels=E5E7EB&dates=94A3B8" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=iqbalairlangga&show_icons=true&theme=tokyonight&hide_border=true&bg_color=020617&title_color=00E5FF&icon_color=FF2D75&text_color=E5E7EB&ring_color=7C3AED&include_all_commits=true&count_private=true" />
 </a>
 
 </div>
 
 ---
 
-<div align="center">
-
-### `WELCOME TO MY DIGITAL CRAFT SHOP`
-
-> **Clean code. Smooth interface. Sharp execution.**  
-> I build, learn, polish, repeat — until the result feels premium.
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&width=600&lines=Currently+focusing+on+Web+Development+%26+2D+Games" alt="Focus" />
-
-</div>
-
----
-
-## :wave: Hey, I'm Iqbal!
+## `< 👋 HELLO THERE />`
 
 <div align="center">
 
-| :trophy: | :rocket: | :art: | :bulb: |
-|:---:|:---:|:---:|:---:|
-| **Level** | **Mission** | **Style** | **Mindset** |
-| :star2: Mid Developer | Ship real projects | Premium & Clean | Always learning |
+<a href="https://github.com/iqbalairlangga">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=0:020617,50:312E81,100:7C3AED&height=80&section=button&text=Hey%2C+I%27m+Iqbal+%F0%9F%91%8B&fontSize=22&fontColor=ffffff&strokeColor=7C3AED&strokeWidth=2&animation=twinkling" />
+</a>
 
 </div>
+
+<br />
+
+<div align="center">
 
 ```yaml
 name: Iqbal Airlangga
-role: Creative Developer in Progress
-location: 🌏 Indonesia
-focus: 
-  - Web Development (Frontend)
-  - UI/UX Design & Polish
-  - 2D Game Development
-current_quest: Ship projects that look good and feel smooth
-superpower: Turning raw ideas into finished experiences
-philosophy: "Consistent growth, clean execution, premium details"
+title: "Creative Developer & Digital Craftsman"
+location: "Indonesia :id:"
+pronouns: He/Him
+
+current_role:
+  - Frontend Developer
+  - UI/UX Enthusiast
+  - 2D Game Explorer
+
+education: "Always Learning, Always Growing"
+motto: "Code with purpose. Design with soul. Ship with pride."
+
+available_for:
+  - "Open Source Collaboration :handshake:"
+  - "Freelance Projects :briefcase:"
+  - "Creative Partnerships :sparkles:"
 ```
 
-- :rocket: Building my developer journey with consistency and taste
-- :art: Interested in clean UI, smooth interaction, and visual polish
-- :video_game: Exploring **2D game development** — small games, satisfying mechanics, strong feel
-- :brain: Learning by creating real things, not just collecting tutorials
-- :star: Goal: become the kind of developer who can turn raw ideas into finished experiences
+</div>
 
 ---
 
-## :globe_with_meridians: What I Do
+## `< :rocket: WHAT I DO />`
+
+<br />
 
 <div align="center">
 
 <table>
   <tr>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/Web%20Development-00D4FF?style=for-the-badge&labelColor=020617" />
-      <h3>:desktop_computer: Frontend</h3>
-      <p>Building responsive, interactive web applications with modern frameworks and clean design systems.</p>
+    <td align="center" width="30%">
+      <a href="#">
+        <img src="https://img.shields.io/badge/-Frontend-00D4FF?style=for-the-badge&logo=react&logoColor=white&labelColor=020617" />
+      </a>
+      <br />
+      <h3>:art: Frontend Development</h3>
+      <p>Building responsive, interactive web apps with React, modern CSS, and buttery smooth animations.</p>
+      <img src="https://img.shields.io/badge/React-2023?style=flat-square&color=61DAFB&labelColor=020617" />
+      <img src="https://img.shields.io/badge/TypeScript-2023?style=flat-square&color=3178C6&labelColor=020617" />
+      <img src="https://img.shields.io/badge/Tailwind-2023?style=flat-square&color=06B6D4&labelColor=020617" />
     </td>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/UI%2FUX%20Design-7C3AED?style=for-the-badge&labelColor=020617" />
-      <h3>:art: Design</h3>
-      <p>Creating visually appealing interfaces with smooth animations and premium feel.</p>
+    <td align="center" width="30%">
+      <a href="#">
+        <img src="https://img.shields.io/badge/-GameDev-FF2D75?style=for-the-badge&logo=godot-engine&logoColor=white&labelColor=020617" />
+      </a>
+      <br />
+      <h3>:video_game: 2D Game Development</h3>
+      <p>Creating small but satisfying 2D games with tight mechanics and premium feel.</p>
+      <img src="https://img.shields.io/badge/Godot-2023?style=flat-square&color=478CBF&labelColor=020617" />
+      <img src="https://img.shields.io/badge/GDScript-2023?style=flat-square&color=6d9fbb&labelColor=020617" />
     </td>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/2D%20Games-FF2D75?style=for-the-badge&labelColor=020617" />
-      <h3>:video_game: GameDev</h3>
-      <p>Developing small 2D games with satisfying mechanics and strong player experience.</p>
+    <td align="center" width="30%">
+      <a href="#">
+        <img src="https://img.shields.io/badge/-UI/UX-7C3AED?style=for-the-badge&logo=figma&logoColor=white&labelColor=020617" />
+      </a>
+      <br />
+      <h3>:gem: UI/UX Design</h3>
+      <p>Crafting interfaces that feel premium — clean layout, smooth interactions, visual polish.</p>
+      <img src="https://img.shields.io/badge/Figma-2023?style=flat-square&color=F24E1E&labelColor=020617" />
+      <img src="https://img.shields.io/badge/Canva-2023?style=flat-square&color=00C4CC&labelColor=020617" />
     </td>
   </tr>
 </table>
@@ -101,151 +126,176 @@ philosophy: "Consistent growth, clean execution, premium details"
 
 ---
 
-## :wrench: Tech Arsenal
+## `< :fire: TECH STACK />`
+
+<br />
 
 <div align="center">
 
-### Languages & Frameworks
+<!-- FRONTEND -->
+<img src="https://img.shields.io/badge/-Frontend-00D4FF?style=for-the-badge&labelColor=020617&labelWidth=100" />
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,python&theme=dark" width="400" />
+<br />
 
-### Tools & Platforms
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,godot,linux,figma,notion&theme=dark" width="400" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap&theme=dark" />
 
 <br />
 <br />
 
-<div>
+<!-- BACKEND -->
+<img src="https://img.shields.io/badge/-Backend-7C3AED?style=for-the-badge&labelColor=020617&labelWidth=100" />
 
-| :bar_chart: Category | :hammer: Tools |
-|:---:|:---:|
-| **Frontend** | HTML5, CSS3, JavaScript, TypeScript, React |
-| **Backend** | Node.js, Python |
-| **Game Dev** | Godot Engine, GDScript |
-| **Tools** | Git, GitHub, VS Code, Figma, Notion |
-| **OS** | Linux (Primary) |
+<br />
 
-</div>
+<img src="https://skillicons.dev/icons?i=nodejs,python,express,fastapi&theme=dark" />
+
+<br />
+<br />
+
+<!-- TOOLS -->
+<img src="https://img.shields.io/badge/-Tools-%26%20Platforms-FF2D75?style=for-the-badge&labelColor=020617&labelWidth=100" />
+
+<br />
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux,notion,vercel,netlify&theme=dark" />
+
+<br />
+<br />
+
+<!-- GAME DEV -->
+<img src="https://img.shields.io/badge/-Game%20Development-00D4FF?style=for-the-badge&labelColor=020617&labelWidth=100" />
+
+<br />
+
+<img src="https://skillicons.dev/icons?i=godot,blender&theme=dark" />
 
 </div>
 
 ---
 
-## :chart_with_upwards_trends: GitHub Analytics
+## `< :chart_with_upwards_trends: GITHUB INSIGHTS />`
+
+<br />
 
 <div align="center">
 
-### :bar_chart: Stats Overview
+### :earth_americas: Contribution Map
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=iqbalairlangga&show_icons=true&theme=tokyonight&hide_border=true&bg_color=020617&title_color=00E5FF&icon_color=FF2D75&text_color=E5E7EB&ring_color=7C3AED" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iqbalairlangga&layout=compact&theme=tokyonight&hide_border=true&bg_color=020617&title_color=00E5FF&text_color=E5E7EB" />
-
-<br />
-<br />
-
-### :fire: Streak Stats
-
-<img src="https://streak-stats.demolab.com?user=iqbalairlangga&theme=tokyonight&hide_border=true&background=020617&ring=00E5FF&fire=FF2D75&currStreakLabel=00E5FF&sideLabels=E5E7EB&dates=94A3B8" />
+<a href="https://github.com/iqbalairlangga">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iqbalairlangga&bg_color=020617&color=E5E7EB&line=7C3AED&point=FF2D75&area=true&hide_border=true&custom_title=Contribution%20Activity%20%E2%9C%A8" width="92%" />
+</a>
 
 <br />
 <br />
 
-### :boom: Contribution Graph
+### :paw_prints: Most Used Languages
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=iqbalairlangga&bg_color=020617&color=E5E7EB&line=00E5FF&point=FF2D75&area=true&hide_border=true&custom_title=Contribution%20Pulse" width="95%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iqbalairlangga&layout=compact&theme=tokyonight&hide_border=true&bg_color=020617&title_color=00E5FF&text_color=E5E7EB&langs_count=8&card_width=320" />
 
 <br />
 <br />
 
 ### :trophy: Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=iqbalairlangga&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4" />
+<img src="https://github-profile-trophy.vercel.app/?username=iqbalairlangga&theme=onestar&no-frame=true&no-bg=true&column=5&margin-w=10&margin-h=10" />
+
+<br />
+<br />
+
+### :bar_chart: GitHub Metrics
+
+<img src="https://github-readme-stats.vercel.app/api?username=iqbalairlangga&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=tokyonight&hide_border=true&bg_color=020617&title_color=00E5FF&icon_color=FF2D75&text_color=E5E7EB&ring_color=7C3AED" />
 
 </div>
 
 ---
 
-## :thought_balloon: Current Focus
+## `< :video_game: QUEST LOG />`
+
+<br />
 
 <div align="center">
 
-```diff
-+ [>] Building responsive web applications
-+ [>] Learning advanced React patterns
-+ [>] Exploring 2D game mechanics
-+ [ ] Contributing to open source
-+ [ ] Building a portfolio of shipped projects
+```
+╔═══════════════════════════════════════════════════════════════════╗
+║                    :video_game:  QUEST LOG                        ║
+╠═══════════════════════════════════════════════════════════════════╣
+║                                                                   ║
+║  [DONE]  Build a solid foundation in HTML, CSS, JS        ✅    ║
+║  [DONE]  Master responsive design & layouts               ✅    ║
+║  [DONE]  Learn React fundamentals                         ✅    ║
+║  [PROG]  Deep dive into TypeScript & advanced patterns    🔄    ║
+║  [PROG]  Build 2D games with Godot Engine                 🔄    ║
+║  [TODO]  Ship 3 polished portfolio projects               ⬜    ║
+║  [TODO]  Contribute to open source projects               ⬜    ║
+║  [TODO]  Build a full-stack application                   ⬜    ║
+║                                                                   ║
+╠═══════════════════════════════════════════════════════════════════╣
+║  PROGRESS:                                                       ║
+║  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░  Web Fundamentals         65%  ║
+║  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░  React / TypeScript       45%  ║
+║  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░  Consistency              95%  ║
+║  ▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░░  UI / UX Design           35%  ║
+║  ▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░░░░  2D Game Dev              30%  ║
+║  ▓▓▓░░░░░░░░░░░░░░░░░░░░░░░░░░  Open Source               15%  ║
+║                                                                   ║
+╚═══════════════════════════════════════════════════════════════════╝
 ```
 
 </div>
 
 ---
 
-## :compass: My Development Journey
+## `< :brain: CURRENTLY WORKING ON />`
+
+<br />
 
 <div align="center">
 
-<table>
-  <tr>
-    <td align="center" width="25%">
-      <h3>:seedling: Learn</h3>
-      <p>Master fundamentals and build strong habits.</p>
-    </td>
-    <td align="center" width="25%">
-      <h3>:hammer: Build</h3>
-      <p>Create real projects with clean structure.</p>
-    </td>
-    <td align="center" width="25%">
-      <h3>:sparkles: Polish</h3>
-      <p>Make every detail feel smooth and intentional.</p>
-    </td>
-    <td align="center" width="25%">
-      <h3>:rocket: Ship</h3>
-      <p>Release projects people can see, use, and play.</p>
-    </td>
-  </tr>
-</table>
+| Status | Project | Description |
+|:---:|:---:|:---|
+| 🟢 | **Web Projects** | Building responsive interfaces with React & TypeScript |
+| 🟡 | **2D Game** | Learning Godot Engine for pixel-perfect 2D games |
+| 🔵 | **UI/UX Study** | Exploring design systems and animation principles |
+| ⚪ | **Open Source** | Preparing first contribution to public repositories |
+
+<br />
+
+> *"Every line of code is a step closer to something amazing."*
 
 </div>
 
-### :globe_with_meridians: Skill Progress
-
-```txt
-+=====================================================+
-| QUEST: Becoming a Premium Digital Builder           |
-+=====================================================+
-| [██████████] Consistency                    100%    |
-| [████████░░] Web Fundamentals               80%    |
-| [██████░░░░] UI / UX Polish                 60%    |
-| [█████░░░░░] 2D Game Development            50%    |
-| [███░░░░░░░] Public Project Releases        30%    |
-+=====================================================+
-```
-
 ---
 
-## :bulb: Philosophy
+## `< :handshake: COLLABORATION ZONE />`
+
+<br />
 
 <div align="center">
 
 <table>
   <tr>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/STYLE-SMOOTH-00D4FF?style=for-the-badge&labelColor=020617" />
-      <h3>:gem: Premium Feel</h3>
-      <p>Interfaces and games should feel satisfying, not just function.</p>
+    <td align="center" width="50%">
+      <img src="https://img.shields.io/badge/I%20can%20help%20with-Frontend%20Development-00D4FF?style=for-the-badge&labelColor=020617" />
+      <br />
+      <p>React, CSS, responsive design, animations</p>
     </td>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/MINDSET-SHARP-7C3AED?style=for-the-badge&labelColor=020617" />
-      <h3>:dart: Clean Execution</h3>
-      <p>Simple structure, clear logic, and steady improvement.</p>
+    <td align="center" width="50%">
+      <img src="https://img.shields.io/badge/I%20can%20help%20with-UI%2FUX%20Polish-7C3AED?style=for-the-badge&labelColor=020617" />
+      <br />
+      <p>Design review, layout, visual improvements</p>
     </td>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/ENERGY-GOKIL-FF2D75?style=for-the-badge&labelColor=020617" />
-      <h3>:fire: Creative Edge</h3>
-      <p>A little flair makes projects memorable.</p>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://img.shields.io/badge/I%27m%20interested%20in-Game%20Dev%20Projects-FF2D75?style=for-the-badge&labelColor=020617" />
+      <br />
+      <p>2D games, Godot projects, game jams</p>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://img.shields.io/badge/Always%20open%20to-Learning%20New%20Things-FFD700?style=for-the-badge&labelColor=020617" />
+      <br />
+      <p>New technologies, creative projects, ideas</p>
     </td>
   </tr>
 </table>
@@ -254,23 +304,26 @@ philosophy: "Consistent growth, clean execution, premium details"
 
 ---
 
-## :link: Let's Connect
+## `< :globe_with_meridians: CONNECT WITH ME />`
+
+<br />
 
 <div align="center">
 
 <a href="https://github.com/iqbalairlangga">
-  <img src="https://img.shields.io/badge/GitHub-iqbalairlangga-0D1117?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <a href="mailto:airlanggaiqbal19@gmail.com">
-  <img src="https://img.shields.io/badge/Email-airlanggaiqbal19%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://linkedin.com/in/iqbalairlangga">
-  <img src="https://img.shields.io/badge/LinkedIn-iqbalairlangga-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <br />
+<br />
 
-> :inbox_tray: **Open for collaborations** — Let's build something awesome together!
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=0:020617,50:312E81,100:7C3AED&height=50&section=button&text=%F0%9F%91%8B+Let%27s+Build+Something+Amazing+Together!&fontSize=16&fontColor=00E5FF&strokeColor=7C3AED&strokeWidth=1" />
 
 </div>
 
@@ -278,14 +331,26 @@ philosophy: "Consistent growth, clean execution, premium details"
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:7C3AED,100:FF2D75&height=180&section=footer" width="100%" />
+<!-- SNAKE ANIMATION -->
+<img src="https://raw.githubusercontent.com/iqbalairlangga/iqbalairlangga/output/github-snake.svg" width="100%" />
 
-### `Thanks for visiting — this profile is still leveling up.`
+<br />
+<br />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3200&pause=900&color=FF2D75&center=true&vCenter=true&width=700&lines=Stay+sharp.+Build+beautiful.+Ship+gokil." alt="Footer typing" />
+<!-- FOOTER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,25:312E81,50:5b21b6,75:7C3AED,100:00D4FF&height=200&section=footer" width="100%" />
 
 <br />
 
-<img src="https://komarev.com/ghpvc/?username=iqbalairlangga&style=flat-square&color=7c3aed&label=PROFILE+VIEWS" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3500&pause=1000&color=FF2D75&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=80&lines=Thanks+for+visiting!+%F0%9F%98%8A;This+profile+is+always+evolving.;Stay+sharp.+Build+beautiful.+Ship+gokil!+%F0%9F%9A%80" alt="Footer Typing" />
+
+<br />
+<br />
+
+<img src="https://komarev.com/ghpvc/?username=iqbalairlangga&style=flat-square&color=7c3aed&label=Profile+Views&labelColor=020617" />
+
+<br />
+
+> *Crafted with :heart: and lots of :coffee: by Iqbal Airlangga*
 
 </div>
